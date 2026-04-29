@@ -1,9 +1,8 @@
 # SendAllMoneyOnFunPay
 Добавляет кнопку "ПЕРЕВЕСТИ ВСЁ" на сайте FunPay.com
 
-
 <p align="center">
-    <img width="40%" src="./Img/123.png">
+    <img width="40%" src="./Img/123.jpg">
     <img width="40%" src="https://i.imgur.com/OiRhz0v.jpeg">
 </p>
 
@@ -143,3 +142,6 @@
 https://www.youtube.com/watch?v=awLs17pffNk
 https://www.youtube.com/watch?v=awLs17pffNk
 https://www.youtube.com/watch?v=awLs17pffNk
+
+## Repo
+https://github.com/gitalexhubuser/SendAllMoneyOnFunPay
