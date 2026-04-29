@@ -140,8 +140,6 @@
 
 ## Video
 https://www.youtube.com/watch?v=awLs17pffNk
-https://www.youtube.com/watch?v=awLs17pffNk
-https://www.youtube.com/watch?v=awLs17pffNk
 
 ## Repo
 https://github.com/gitalexhubuser/SendAllMoneyOnFunPay
