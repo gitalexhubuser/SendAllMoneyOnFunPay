@@ -1,5 +1,5 @@
 # SendAllMoneyOnFunPay
-Добавляет кнопку "ПЕРЕВЕСТИ ВСЁ" на сайте FunPay.com
+Добавляет кнопку "ПЕРЕВЕСТИ ВСЁ" на сайте [FunPay.com](https://funpay.com/account/balance)
 
 <p align="center">
     <img width="40%" src="./Img/123.jpg">
