@@ -1,6 +1,13 @@
 # SendAllMoneyOnFunPay
 Добавляет кнопку "ПЕРЕВЕСТИ ВСЁ" на сайте FunPay.com
 
+
+<p align="center">
+    <img width="40%" src="./Img/123.png">
+    <img width="40%" src="https://i.imgur.com/OiRhz0v.jpeg">
+</p>
+
+
 ## Sourse code
 ```bat
 // ==UserScript==
